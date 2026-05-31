@@ -1,4 +1,4 @@
-# onCycle-triple-induction-
+# onCycle twain & triple inductions
 
 1) да, 1 цикл равен 18 единицам
 2) жизнь циклична
